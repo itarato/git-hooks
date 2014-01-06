@@ -1,0 +1,10 @@
+##########
+# Config #
+##########
+
+# Path to phpcs "binary".
+PHPCS_BIN=/Applications/MAMP/bin/php/php5.4.4/bin/phpcs
+
+# The coding standard, you can also specify a path to your own standard here
+# e. g. /path/to/my/standard/dir/.
+PHPCS_CODING_STANDARD=/Users/itarato/Desktop/coder/coder_sniffer/Drupal
